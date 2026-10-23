@@ -1,0 +1,9 @@
+printers.json
+printers.json.tmp
+dumps/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.pytest_cache/
+*.3mf
